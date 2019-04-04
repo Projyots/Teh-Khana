@@ -1,0 +1,6 @@
+1. type prefix in first column,
+2.number in second
+3.and suffix next
+4. =$F$5&TEXT(G5,"000")&$H$5   -------'5' is row number  ------'000' will populate as number '001'
+5.then insert function from left of =
+6. then scroll till bottom
