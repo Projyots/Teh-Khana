@@ -1,0 +1,5 @@
+1. open c > program files
+2. DES_tools
+3.  utilities enable wifi adapter
+4. black screen will appear for 1 sec
+try connecting again.

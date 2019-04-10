@@ -1,0 +1,11 @@
+ftp <server name>
+usernaem
+password
+cd path (where the file is located)
+get filename			---put filename
+remote file naem
+local file name
+
+
+--------
+speed and time of transfer should be there
