@@ -1,0 +1,14 @@
+* PHASE:-
+		TESTING:-  Test Scripts
+
+* RELEASE:-
+	TESTING:- Quality PLAN
+	OSAM:- Compliance Report
+
+-----ADR sites will be sent by Scrum Master
+
+IF ERROR pops up then 
+
+Properties > 
+
+
